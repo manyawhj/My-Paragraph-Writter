@@ -1,0 +1,35 @@
+#get_para_1_btn{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(236, 190, 190);
+    color: deeppink;
+    font-size: 15pt;
+}
+body{
+    background-color: deepskyblue;
+    text-align: center;
+}
+h3{
+   font-size: 25pt;
+   color: fuchsia;
+}
+#get_para_2_btn{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(236, 190, 190);
+    color: deeppink;
+    font-size: 15pt;
+}
+#change-font-style{
+    height: 50px;
+    width: 500px;
+    background-color: rgb(167, 237, 240);
+    color: rgb(22, 203, 216);
+    font-size: 15pt;
+    font-weight: bold;
+}
+p{
+    font-size: 50pt;
+    font-weight: bold;
+    color: white;
+}
